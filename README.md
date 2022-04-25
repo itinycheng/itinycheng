@@ -4,7 +4,7 @@
 ## Hi, I’m here 👋 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on [flink-platform-backend](https://github.com/itinycheng/flink-platform-backend)
+- 💞️ I’m looking to collaborate on [flink-platform-backend](https://github.com/itinycheng/flink-platform-backend), [flink-platform-frontend](https://github.com/itinycheng/flink-platform-frontend)
 - 📫 Reach me: tiny_wcl
 
 
